@@ -1,0 +1,3 @@
+﻿  Form.cpp
+C:\Users\use2\Desktop\OOP\hw1\CS3005301HW07\TS0701\Form.cpp(33,6): warning C4101: 'findIndex': 未參考的區域變數
+  TS0701.vcxproj -> C:\Users\use2\Desktop\OOP\hw1\CS3005301HW07\x64\Debug\TS0701.exe

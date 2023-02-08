@@ -1,0 +1,6 @@
+﻿  Template.cpp
+C:\Users\use2\Desktop\OOP\hw1\CS3005301HW13\TS1301\Template.cpp(46,1): warning C4267: '=': 將 'size_t' 轉換為 'int'，資料可能遺失
+C:\Users\use2\Desktop\OOP\hw1\CS3005301HW13\TS1301\Template.cpp(53,1): warning C4267: '正在初始化': 將 'size_t' 轉換為 'int'，資料可能遺失
+C:\Users\use2\Desktop\OOP\hw1\CS3005301HW13\TS1301\Template.cpp(54,1): warning C4267: '正在初始化': 將 'size_t' 轉換為 'int'，資料可能遺失
+C:\Users\use2\Desktop\OOP\hw1\CS3005301HW13\TS1301\Template.cpp(106,1): warning C4267: '正在初始化': 將 'size_t' 轉換為 'int'，資料可能遺失
+  TS1301.vcxproj -> C:\Users\use2\Desktop\OOP\hw1\CS3005301HW13\x64\Debug\TS1301.exe

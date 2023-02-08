@@ -1,0 +1,4 @@
+﻿  Polynomial.cpp
+C:\Users\use2\Desktop\OOP\hw1\CS3005301HW08\TS0801\Polynomial.cpp(87,6): warning C4101: 'i': 未參考的區域變數
+C:\Users\use2\Desktop\OOP\hw1\CS3005301HW08\TS0801\Polynomial.cpp(99,6): warning C4101: 'i': 未參考的區域變數
+  TS0801.vcxproj -> C:\Users\use2\Desktop\OOP\hw1\CS3005301HW08\x64\Debug\TS0801.exe

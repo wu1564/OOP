@@ -1,0 +1,3 @@
+﻿  ComputeStandardDeviation.cpp
+C:\Users\use2\Desktop\OOP\hw1\CS3005301HW02\TS0201\ComputeStandardDeviation.cpp(67,22): warning C4244: '正在初始化': 將 'double' 轉換為 'size_t'，由於類型不同，可能導致資料遺失
+  TS0201.vcxproj -> C:\Users\use2\Desktop\OOP\hw1\CS3005301HW02\x64\Debug\TS0201.exe

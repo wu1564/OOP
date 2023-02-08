@@ -1,0 +1,7 @@
+﻿  Recorder.cpp
+C:\Users\use2\Desktop\OOP\hw1\11002SOOPMidtermTestQ3\1102OOPMidterm03\Recorder.cpp(24,41): warning C4267: '正在初始化': 將 'size_t' 轉換為 'int'，資料可能遺失
+C:\Users\use2\Desktop\OOP\hw1\11002SOOPMidtermTestQ3\1102OOPMidterm03\Recorder.cpp(229,41): warning C4267: '/=': 將 'size_t' 轉換為 'int'，資料可能遺失
+C:\Users\use2\Desktop\OOP\hw1\11002SOOPMidtermTestQ3\1102OOPMidterm03\Recorder.cpp(262,42): warning C4267: '/=': 將 'size_t' 轉換為 'int'，資料可能遺失
+  main.cpp
+  正在產生程式碼...
+  1102OOPMidterm03.vcxproj -> C:\Users\use2\Desktop\OOP\hw1\11002SOOPMidtermTestQ3\x64\Debug\1102OOPMidterm03.exe
